@@ -1,0 +1,11 @@
+.Card{
+    width: 300px;
+    gap: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px black;
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    color: black;
+}
